@@ -1,14 +1,13 @@
 
-import reactLogo from './assets/react.svg'
 import './quatar.css'
-
+import img from "../public/images/qatar-2022-logoletra.png"
 function App() {
 
 
   return (
     <div className="App">
       <div className='container-logo'>
-         <img className='logoQatar' logo src="../public/images/qatar-2022-logoletra.png" alt="" />
+         <img className='logoQatar' logo src={img} alt="" />
       </div>
      <div className='containerVs'> 
         <div className='containerVsIn'>
