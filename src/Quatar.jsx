@@ -12,7 +12,7 @@ function App() {
      <div className='containerVs'> 
         <div className='containerVsIn'>
           <div className='container-fecha'>
-               <h3>20/11/2022</h3><h5>13:00</h5>
+               <h3>20/11/2022</h3><h2>13:00</h2>
           </div>
           <div className='container-team'>
             <div className='container-flag'>
