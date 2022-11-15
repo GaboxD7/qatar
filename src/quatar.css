@@ -6,7 +6,7 @@
   box-shadow: 1px 1px 20px black;
   background-position: center;
   background-size: cover;
-  margin-top: 5px;
+  margin-top: 0.3125rem;
 }
 .App {
   
@@ -21,7 +21,7 @@
 }
 
 .container-logo {
-  height: 240px;
+  height: 15rem;
   display: flex;
 
   justify-content: center;
@@ -30,12 +30,12 @@
 
 }
 .logoQatar {
-  width: 180px;
-  height: 210px;
+  width: 11.25rem;
+  height:13.125rem;
 
 }
 .containerVs {
- height: 386px;
+ height: 24.125rem;
 
  display: flex;
 
@@ -44,10 +44,10 @@
 }
 .containerVsIn {
   background-color: rgba(0, 0, 0, 0.4);
-  border-radius: 10px;
+  border-radius: 0.625rem;
 width: 85%;
-height:200px;
-margin-bottom: 40px;
+height:12.5rem;
+margin-bottom: 2.5rem;
 }
 .container-fecha {
   display: flex;
@@ -55,7 +55,7 @@ margin-bottom: 40px;
 
 }
 .container-fecha h3 {
-  padding:  0 16px;
+  padding:  0 1rem;
 }
 .container-team {
   display: flex;
